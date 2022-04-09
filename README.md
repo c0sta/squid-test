@@ -15,7 +15,7 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://squid-teste.netlify.app/">
     <img src="src/assets/logo.svg" alt="Logo" width="300" height="100">
   </a>
 
@@ -25,9 +25,9 @@
     <br />
     <a href="https://squid-teste.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/c0sta/squid-test/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/c0sta/squid-test/issues">Request Feature</a>
   </p>
 </p>
 
