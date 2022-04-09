@@ -23,7 +23,7 @@
    Teste técnico para vaga de Desenvolver Front-end Jr.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://squid-teste.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
