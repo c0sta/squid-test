@@ -20,7 +20,7 @@
   </a>
 
   <p align="center">
-   Teste técnico para vaga de Desenvolver Front-end Jr.
+   Teste técnico para vaga de Desenvolvedor Front-end.
     <br />
     <br />
     <a href="https://squid-teste.netlify.app/">View Demo</a>
